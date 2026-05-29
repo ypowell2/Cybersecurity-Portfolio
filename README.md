@@ -141,6 +141,8 @@ Capture and analyze network traffic using command-line packet analysis tools.
 
 ## Education
 
-Bachelor of Science in Cybersecurity
+Bachelor of Science in Cybersecurity  
+
 Minor in Computer Science
+
 Fayetteville State University
